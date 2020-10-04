@@ -6,7 +6,6 @@ edition = "2018"
 description = "Determine image type and retrieve its size"
 repository = "https://github.com/serxka/imagehead/"
 license = "MIT"
-license-file = "license.txt"
 keywords = ["image", "metadata"]
 
 [dependencies]
