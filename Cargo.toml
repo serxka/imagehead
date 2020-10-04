@@ -1,0 +1,12 @@
+[package]
+name = "imagehead"
+version = "0.1.0"
+authors = ["serxka <serxka@protonmail.com>"]
+edition = "2018"
+
+[dependencies]
+byteorder = "1.3.4"
+
+[[bin]]
+name = "info"
+path = "src/info.rs"
